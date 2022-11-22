@@ -436,7 +436,7 @@ form  .save button{
 .verify form .one .r .select{
     display: flex;
     justify-content: space-between;
-    width: 100%;
+    width: 95%;
     margin-bottom: 2rem;
 }
 .verify form .one .l select{
@@ -447,8 +447,8 @@ form  .save button{
     border: 2px solid #33cca8;
     border-radius: 4px;
     background-color: #e6f0ee;
-    width: 60%;
-    height: 2.5rem;
+    width: 95%;
+    height: 55px;
 }
 
 .verify form .one .r select{
@@ -460,7 +460,7 @@ form  .save button{
     border-radius: 4px;
     background-color: #e6f0ee;
     width: 27%;
-    height: 3rem;
+    height: 55px;
 }
 
 .verify form .one textarea{
